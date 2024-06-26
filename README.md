@@ -16,6 +16,7 @@
 <h3 align="left">Projects:</h3>
 
 - [Platformer Game in C++](https://github.com/usman-zaka/skyward-bound)
+- [Tic Tac Toe in MATLAB](https://github.com/usman-zaka/tic-tac-toe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
