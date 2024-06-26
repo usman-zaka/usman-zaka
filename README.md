@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I am a table tennis enthusiast**
 
 <h3 align="left">Projects:</h3>
+
 [Platformer Game in C++](https://github.com/usman-zaka/skyward-bound)
 
 <h3 align="left">Connect with me:</h3>
