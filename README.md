@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman Zaka</h1>
 <h3 align="center">A Computer Science Student at The University of Adelaide</h3>
 
-- 🔭 My recent work includes **a platformer game built in C++.The game is built on a Linux environment (Window's Subsystem for Linux). The project is built upon Object-Oriented Principles.**
+- 🔭 My recent work includes **a platformer game built in C++. The game is built on an Ubuntu Linux environment (Window's Subsystem for Linux) and utilises the SFML library to provide a pleasing GUI. Furthermore, the project utilises Object-Oriented Principles to ensure well-structured, maintainable and efficient code.**
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, Databases and Computer Systems**
+- 🌱 I’m currently learning **Algorithms and Data Structures, SQL Server and Databases and Computer Systems**
 
 - 👯 I’m looking to collaborate on [private-gpt, a private and secure version of the GPT language model. It leverages the power of large language models (LLMs).](https://github.com/zylon-ai/private-gpt)
 
