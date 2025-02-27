@@ -15,6 +15,7 @@
 
 <h3 align="left">Projects:</h3>
 
+- [Car Price Prediction](https://github.com/usman-zaka/car-price-prediction)
 - [Platformer Game in C++](https://github.com/usman-zaka/skyward-bound)
 - [Tic Tac Toe in MATLAB](https://github.com/usman-zaka/tic-tac-toe)
 
