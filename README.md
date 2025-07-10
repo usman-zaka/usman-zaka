@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman Zaka</h1>
 <h3 align="center">A Computer Science Student at The University of Adelaide</h3>
 
-- 🔭 My recent work includes **a data science project in which I aimed to predict car prices based on numerous attributes. This project was completed in Python and utilised various useful python libraries namely pandas, matplotlib, seaborn, sckitlearn. To make it easy to understand the code and follow my thought process, I completed the project in a Jupyter notebook.**
+- 🔭 My recent work includes a web application called **FridgeChef**. FridgeChef aims to simplify the process of finding and cooking healthy recipes. This application was built with various technologies, namely, **Express.js**, **Node.js**, **MySQL**.
 
 - 🌱 I’m currently learning **Algorithms and Data Structures, Web Development, Probability and Statistics and Multivariable Calculus**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Projects:</h3>
 
+- [FridgeChef](https://github.com/usman-zaka/fridge-chef)
 - [Car Price Prediction](https://github.com/usman-zaka/car-price-prediction)
 - [Platformer Game in C++](https://github.com/usman-zaka/skyward-bound)
-- [Tic Tac Toe in MATLAB](https://github.com/usman-zaka/tic-tac-toe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
