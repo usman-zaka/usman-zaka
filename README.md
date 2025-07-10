@@ -3,11 +3,11 @@
 
 - 🔭 My recent work includes a web application called **FridgeChef**. FridgeChef aims to simplify the process of finding and cooking healthy recipes. This application was built with various technologies, namely, **Express.js**, **Node.js**, **MySQL**.
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, Web Development, Probability and Statistics and Multivariable Calculus**
+- 🌱 I’m currently learning **Algorithms and Data Structures, Web Development, Probability and Statistics**
 
 - 👯 I’m looking to collaborate on [private-gpt, a private and secure version of the GPT language model. It leverages the power of large language models (LLMs).](https://github.com/zylon-ai/private-gpt)
 
-- 💬 Ask me about **Object-Oriented Programming, Memory Management, Data Preparation, Data Analysis.**
+- 💬 Ask me about **Data Science, Data Analysis, Python, SQL, Power BI, Object Oriented Programming, Algorithm and Data Structures**
 
 - 📫 How to reach me **usman.zaka@gmail.com**
 
