@@ -15,9 +15,9 @@
 
 <h3 align="left">Projects:</h3>
 
+- [Job-Data-Visualisation](https://github.com/usman-zaka/job-data-visualisation)
 - [FridgeChef](https://github.com/usman-zaka/fridge-chef)
 - [Car Price Prediction](https://github.com/usman-zaka/car-price-prediction)
-- [Platformer Game in C++](https://github.com/usman-zaka/skyward-bound)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
