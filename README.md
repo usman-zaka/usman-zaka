@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman Zaka</h1>
 <h3 align="center">A Computer Science Student at The University of Adelaide</h3>
 
-- 🔭 My recent work includes a web application called **FridgeChef**. FridgeChef aims to simplify the process of finding and cooking healthy recipes. This application was built with various technologies, namely, **Express.js**, **Node.js**, **MySQL**.
+- 🔭 My recent work includes building a dashboard on **Microsoft Power BI** which visualises trends for data-related jobs. 
 
-- 🌱 I’m currently learning **Algorithms and Data Structures, Web Development, Probability and Statistics**
+- 🌱 I’m currently interning at the **Planning and Analytics Team** at the **University of Adelaide**
 
 - 👯 I’m looking to collaborate on [private-gpt, a private and secure version of the GPT language model. It leverages the power of large language models (LLMs).](https://github.com/zylon-ai/private-gpt)
 
